@@ -1,3 +1,5 @@
+// @Image(cloudbees/codeship-jenkinsfile-step:latest)
+
 pipeline {
     agent any
 
